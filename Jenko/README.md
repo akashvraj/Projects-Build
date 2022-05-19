@@ -1,5 +1,9 @@
-Jenko
+A utility to get jenkins job console logs in local terminal.
 
-A tool to fetch jenkins console output to terminal.
+Real time logs for ongoing build.
 
-Color & Notification support
+Notification on completion.
+
+Use logging [info], [warn], [debug], [action], [error], [fatel] at the start(in between terms also supported - experimental) to distinguish different lines visually.
+
+Note> Use terminal with good scrollback capacity to run this.
